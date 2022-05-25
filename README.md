@@ -1,4 +1,4 @@
-# Seavoting
+![](https://github.com/Seavoting/Ontology-Seavoting/blob/main/Photos/SeaVoting.jpg)
  
 ## project orientation 
 
